@@ -9,4 +9,4 @@
 ## 3.安装node.js  
 ![地址](https://github.com/wangleihd/command/blob/master/nodejs.md)  
 # 技术文档
-![JQery]()  
+![JQery](https://www.w3cschool.cn/jquery/rdl9cfnk.html)  
