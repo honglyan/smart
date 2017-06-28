@@ -1,22 +1,22 @@
-webpack 入门
+# webpack 入门
 
-目录
+## 目录
 
-1 安装 webpack
-2 初始化项目
-3 webpack 配置
-4 自动刷新
-5 第三方库
-6 模块化
-7 打包、构建
-8 webpack 模板
-我最近大量使用的是 jspm，但因为用它搭建的前端开发环境中，写测试代码非常困难，而项目又需要写测试，所以决定先试试 webpack。
-
-安装 webpack
-webpack 是一个 npm 包，所以我们通过 npm 命令来全局安装：
-
+### 1 安装 webpack  
+ebpack 是一个 npm 包，所以我们通过 npm 命令来全局安装：
 npm install webpack -g
 安装完成后，命令行下就有 webpack 命令可用，执行 webpack --help 可以查看 webpack 提供的各种命令。
+安装 webpack
+w
+### 2 初始化项目  
+
+### 3 webpack 配置  
+### 4 自动刷新  
+### 5 第三方库  
+### 6 模块化  
+### 7 打包、构建  
+### 8 webpack 模板  
+
 
 初始化项目
 grunt.js 一类工具可以借助 yeoman 来初始化项目，目前我并没有看到 webpack 有类似方法，所以当 node.js 项目来初始化。
