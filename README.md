@@ -9,6 +9,11 @@
 ## 3.安装node.js  
 ![地址](https://github.com/wangleihd/command/blob/master/nodejs.md)  
 ## 4.安装webpack
-![地址](https://github.com/honglyan/smart/blob/master/webpack.md)
+安装：
+webpack 是一个 npm 包，所以我们通过 npm 命令来全局安装：
+npm install webpack -g
+安装完成后，命令行下就有 webpack 命令可用，执行 webpack --help 可以查看 webpack 提供的各种命令。
+
+![使用](https://segmentfault.com/a/1190000006178770)
 # 技术文档
 ![JQery](https://www.w3cschool.cn/jquery/rdl9cfnk.html)  
