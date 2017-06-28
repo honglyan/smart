@@ -8,5 +8,7 @@
 ![地址](https://github.com/honglyan/stuinfo/blob/master/skill/vim-doc.md)
 ## 3.安装node.js  
 ![地址](https://github.com/wangleihd/command/blob/master/nodejs.md)  
+## 4.安装webpack
+![地址](https://github.com/honglyan/smart/blob/master/webpack.md)
 # 技术文档
 ![JQery](https://www.w3cschool.cn/jquery/rdl9cfnk.html)  
